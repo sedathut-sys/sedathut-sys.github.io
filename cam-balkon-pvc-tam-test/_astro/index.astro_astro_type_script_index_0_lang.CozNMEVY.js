@@ -1,0 +1,1 @@
+import{i as e,o as t}from"./demo-storage.o94kC5Ep.js";import{t as n}from"./customer-projects.BUNnzVnf.js";var r=t(e());if(r.source===`saved`||r.source===`migrated`){let e=window.location.pathname.split(`/`).filter(Boolean).at(-1),t=r.data.projects.find(t=>t.slug===e);e&&t&&window.location.replace(n(`/cam-balkon-pvc-tam-test/`,t.id))}

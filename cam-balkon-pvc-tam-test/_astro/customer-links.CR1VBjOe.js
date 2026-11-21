@@ -1,0 +1,1 @@
+function e(e){let t=e.endsWith(`/`)?e:e+`/`;return{home:t,glass:t+`hizmetler/cam-balkon/`,pvc:t+`hizmetler/pvc/`,gallery:t+`projeler/`,quote:t+`teklif/`,contact:t+`#iletisim`}}export{e as t};
